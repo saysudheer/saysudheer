@@ -59,12 +59,12 @@ Open to Senior Data Engineer / Software Engineering roles at product companies i
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 ![Sudheer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saysudheer&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saysudheer&layout=compact&theme=github_dark&hide_border=true)
 
----
+----->
 
 ## 📬 Connect with me
 
@@ -74,4 +74,4 @@ Open to Senior Data Engineer / Software Engineering roles at product companies i
 
 ---
 
-*"Think twice. Pipeline once."*
+*"Think twice. code once."*
